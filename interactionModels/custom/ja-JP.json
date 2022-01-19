@@ -1,0 +1,51 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "きょうのえいたんご",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "OneMore",
+          "slots": [],
+          "samples": [
+            "もういちど",
+            "もういっかい",
+            "もういちど言って"
+          ]
+        },
+        {
+          "name": "Comment",
+          "slots": [],
+          "samples": [
+            "意味を教えて",
+            "意味を言って",
+            "意味",
+            "日本語",
+            "日本語で"
+          ]
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "10"
+}
