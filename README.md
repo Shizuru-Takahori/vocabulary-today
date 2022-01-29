@@ -23,3 +23,5 @@ http://www.newgeneralservicelist.org.<br>
 Chujo, K., Oghigian, K. and Akasegawa, S. “A corpus and grammatical browsing system for remedial EFL learners,” In A. Leńko-Szymańska and A. Boulton (eds.), Multiple Affordances of Language Corpora for Data-driven Learning. Amsterdam: John Benjamins, 2015, 109-128.<br>
 https://www.score-corpus.org/<br>
 <br>
+<br>
+このスキルは"表示 - 非営利 - 継承 4.0 国際" CC BY-NC-SA 4.0ライセンスで提供しています｡<br>
